@@ -2,3 +2,10 @@
     height: 300px;
     margin-left: 40px;
 }
+
+.fab{
+    position: relative;
+    float: left;
+    margin-left: 4%;
+    color: white;
+}
